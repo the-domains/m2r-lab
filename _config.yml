@@ -1,0 +1,14 @@
+layout_spectrum: 0.3541821294929832
+typography_spectrum: 0.9129703787621111
+color:
+  brandStrength: 0.8359623576980084
+  lightness: 0.4794079742860049
+  saturation: 0.8234336494933814
+  rhythmicContrast: 0.48992099636234343
+  brandColors:
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
+name: m2R Lab
